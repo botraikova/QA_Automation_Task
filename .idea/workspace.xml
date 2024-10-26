@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37206e59-1f69-48d2-af3f-baf4717cb331" name="Changes" comment="Test 1 passed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BusinessAccountPublicRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountPublicRegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BusinessAccountTrustRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountTrustRegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EducationPrivateCompanyRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EducationPrivateCompanyRegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EducationPublicCompanyRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EducationPublicCompanyRegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PersonalAccountIndividualRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PersonalAccountIndividualRegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PersonalAccountSoleTraderRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PersonalAccountSoleTraderRegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BusinessAccountPublicRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountPublicRegistrationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +42,8 @@
     "TestNG.BusinessAccountPrivateCompanyRegistration.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
     "TestNG.BusinessAccountPrivateCompanyRegistrationTest.executor": "Run",
     "TestNG.BusinessAccountPrivateCompanyRegistrationTest.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
+    "TestNG.BusinessAccountPublicRegistrationTest.executor": "Run",
+    "TestNG.BusinessAccountPublicRegistrationTest.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/QA_Automation_Task/src/main/java/org/example/Main.java",
@@ -56,7 +52,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.BusinessAccountPrivateCompanyRegistrationTest">
+  <component name="RunManager" selected="TestNG.BusinessAccountPublicRegistrationTest">
     <configuration name="BusinessAccountPrivateCompanyRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_Automation_Task" />
       <option name="PACKAGE_NAME" value="" />
@@ -80,8 +76,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BusinessAccountPublicRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Automation_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusinessAccountPublicRegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusinessAccountPublicRegistrationTest.registrationForBusinessAccountPrivateCompanyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Automation_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusinessAccountPublicRegistrationTest" />
+      <option name="METHOD_NAME" value="registrationForBusinessAccountPrivateCompanyTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BusinessAccountPublicRegistrationTest" />
+        <item itemvalue="TestNG.BusinessAccountPublicRegistrationTest.registrationForBusinessAccountPrivateCompanyTest" />
         <item itemvalue="TestNG.BusinessAccountPrivateCompanyRegistrationTest" />
         <item itemvalue="TestNG.BusinessAccountPrivateCompanyRegistrationTest.registrationForBusinessAccountPrivateCompanyTest" />
       </list>
@@ -120,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729946468809</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test 1 passed">
+      <option name="closed" value="true" />
+      <created>1729946815946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729946815946</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,11 +186,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/BusinessAccountPrivateCompanyRegistrationTest.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
