@@ -7,9 +7,7 @@
     <list default="true" id="37206e59-1f69-48d2-af3f-baf4717cb331" name="Changes" comment="Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PageObject/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageObject/RegisterPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EducationPrivateCompanyRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EducationPrivateCompanyRegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/EducationPublicCompanyRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EducationPublicCompanyRegistrationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestAndDriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestAndDriverSetup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +49,8 @@
     "TestNG.BusinessAccountPublicRegistrationTest.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
     "TestNG.BusinessAccountTrustRegistrationTest.executor": "Run",
     "TestNG.EducationPrivateCompanyRegistrationTest.executor": "Run",
+    "TestNG.EducationPublicCompanyRegistrationTest.executor": "Run",
+    "TestNG.EducationPublicCompanyRegistrationTest.registrationForEducationPublicCompany.executor": "Run",
     "TestNG.PersonalAccountIndividualRegistrationTest.executor": "Run",
     "TestNG.PersonalAccountIndividualRegistrationTest.registrationForPersonalAccountIndividualTest.executor": "Run",
     "TestNG.PersonalAccountSoleTraderRegistrationTest.executor": "Run",
@@ -62,18 +62,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.EducationPrivateCompanyRegistrationTest">
-    <configuration name="BusinessAccountTrustRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="QA_Automation_Task" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BusinessAccountTrustRegistrationTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.EducationPublicCompanyRegistrationTest.registrationForEducationPublicCompany">
     <configuration name="EducationPrivateCompanyRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_Automation_Task" />
       <option name="PACKAGE_NAME" value="" />
@@ -85,11 +74,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonalAccountIndividualRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="EducationPublicCompanyRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_Automation_Task" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PersonalAccountIndividualRegistrationTest" />
+      <option name="MAIN_CLASS_NAME" value="EducationPublicCompanyRegistrationTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EducationPublicCompanyRegistrationTest.registrationForEducationPublicCompany" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Automation_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EducationPublicCompanyRegistrationTest" />
+      <option name="METHOD_NAME" value="registrationForEducationPublicCompany" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.EducationPublicCompanyRegistrationTest.registrationForEducationPublicCompany" />
+        <item itemvalue="TestNG.EducationPublicCompanyRegistrationTest" />
         <item itemvalue="TestNG.EducationPrivateCompanyRegistrationTest" />
         <item itemvalue="TestNG.PersonalAccountSoleTraderRegistrationTest" />
         <item itemvalue="TestNG.PersonalAccountIndividualRegistrationTest.registrationForPersonalAccountIndividualTest" />
-        <item itemvalue="TestNG.PersonalAccountIndividualRegistrationTest" />
-        <item itemvalue="TestNG.BusinessAccountTrustRegistrationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729954142985</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Test">
+      <option name="closed" value="true" />
+      <created>1729955425755</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729955425755</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

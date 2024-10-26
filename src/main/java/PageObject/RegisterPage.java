@@ -97,7 +97,7 @@ public class RegisterPage {
         companyNameField.sendKeys(legalCompanyName);
     }
 
-    public void typePartrnershipName(){
+    public void typePartrnershipName() {
         String partnershipName = generateRandomCompanyName(10, 15);
         WebDriverWait wait = new WebDriverWait(this.webDriver, Duration.ofSeconds(15));
         WebElement partnershipNameField = wait.until(ExpectedConditions.visibilityOf(webDriver.findElement(By.id("company_name"))));
