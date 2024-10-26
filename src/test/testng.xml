@@ -8,6 +8,8 @@
             <class name="BusinessAccountTrustRegistrationTest"></class>
             <class name="PersonalAccountIndividualRegistrationTest"></class>
             <class name="PersonalAccountSoleTraderRegistrationTest"></class>
+            <class name="EducationPrivateCompanyRegistrationTest"></class>
+            <class name="EducationPublicCompanyRegistrationTest"></class>
         </classes>
     </test>
 </suite>

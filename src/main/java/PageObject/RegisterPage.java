@@ -85,7 +85,7 @@ public class RegisterPage {
         privateCompanyForEducationButton.click();
     }
 
-    public void clickPublicCompany() {
+    public void clickPublicCompanyForEducation() {
         WebElement publicCompanyButton = wait.until(ExpectedConditions.elementToBeClickable(webDriver.findElement(By.id("register_education_account_type_public_company"))));
         publicCompanyButton.click();
     }
