@@ -4,26 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37206e59-1f69-48d2-af3f-baf4717cb331" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObject/RegisterPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountPartnershipRegistrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountPrivateCompanyRegistrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountPublicRegistration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountTrustRegistration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EducationPrivateCompanyRegistration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/EducationPublicCompanyRegistration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PersonalAccountIndividualRegistration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PersonalAccountSoleTraderRegistration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestAndDriverSetup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/testng.xml" afterDir="false" />
+    <list default="true" id="37206e59-1f69-48d2-af3f-baf4717cb331" name="Changes" comment="Test 1 passed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BusinessAccountPublicRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountPublicRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BusinessAccountTrustRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountTrustRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EducationPrivateCompanyRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EducationPrivateCompanyRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/EducationPublicCompanyRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/EducationPublicCompanyRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PersonalAccountIndividualRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PersonalAccountIndividualRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PersonalAccountSoleTraderRegistration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PersonalAccountSoleTraderRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +96,31 @@
       <option name="presentableId" value="Default" />
       <updated>1729888475662</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test 1 passed">
+      <option name="closed" value="true" />
+      <created>1729946186550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729946186550</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test 1 passed">
+      <option name="closed" value="true" />
+      <created>1729946437945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729946437945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test 1 passed">
+      <option name="closed" value="true" />
+      <created>1729946468809</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729946468809</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,11 +128,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test 1 passed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 1 passed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

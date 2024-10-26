@@ -3,6 +3,13 @@
     <test name="smoke">
         <classes>
             <class name="BusinessAccountPrivateCompanyRegistrationTest"></class>
+            <class name="BusinessAccountPartnershipRegistrationTest"></class>
+            <class name="BusinessAccountPublicRegistrationTest"></class>
+            <class name="BusinessAccountTrustRegistrationTest"></class>
+            <class name="EducationPrivateCompanyRegistrationTest"></class>
+            <class name="EducationPublicCompanyRegistrationTest"></class>
+            <class name="PersonalAccountIndividualRegistrationTest"></class>
+            <class name="PersonalAccountSoleTraderRegistrationTest"></class>
         </classes>
     </test>
 </suite>
