@@ -30,5 +30,4 @@ public class BusinessAccountPrivateCompanyRegistrationTest extends TestAndDriver
         Assert.assertTrue(registerPage.isVerifPageLoaded(), "Verification page isn't loaded");
 
     }
-
 }
