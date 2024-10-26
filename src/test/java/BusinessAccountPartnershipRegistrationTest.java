@@ -12,10 +12,7 @@ public class BusinessAccountPartnershipRegistrationTest extends TestAndDriverSet
             registerPage.navigateTo();
             Assert.assertTrue(registerPage.isPageLoaded(), "Register page isn't loaded");
             registerPage.clickCookiesButton();
-
             registerPage.clickPartnershipForBusiness();
-
-
             registerPage.typePartrnershipName();
             registerPage.typeAmount();
             registerPage.typeFirstName();
