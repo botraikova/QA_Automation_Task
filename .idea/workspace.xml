@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37206e59-1f69-48d2-af3f-baf4717cb331" name="Changes" comment="Test 1 passed">
+    <list default="true" id="37206e59-1f69-48d2-af3f-baf4717cb331" name="Changes" comment="Test 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageObject/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageObject/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BusinessAccountPartnershipRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountPartnershipRegistrationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BusinessAccountPublicRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountPublicRegistrationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +40,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.BusinessAccountPartnershipRegistrationTest.executor": "Run",
+    "TestNG.BusinessAccountPartnershipRegistrationTest.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
     "TestNG.BusinessAccountPrivateCompanyRegistration.executor": "Run",
     "TestNG.BusinessAccountPrivateCompanyRegistration.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
     "TestNG.BusinessAccountPrivateCompanyRegistrationTest.executor": "Run",
@@ -52,11 +56,11 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.BusinessAccountPublicRegistrationTest">
-    <configuration name="BusinessAccountPrivateCompanyRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.BusinessAccountPartnershipRegistrationTest">
+    <configuration name="BusinessAccountPartnershipRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_Automation_Task" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BusinessAccountPrivateCompanyRegistrationTest" />
+      <option name="MAIN_CLASS_NAME" value="BusinessAccountPartnershipRegistrationTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -64,12 +68,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BusinessAccountPrivateCompanyRegistrationTest.registrationForBusinessAccountPrivateCompanyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BusinessAccountPartnershipRegistrationTest.registrationForBusinessAccountPrivateCompanyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Automation_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusinessAccountPartnershipRegistrationTest" />
+      <option name="METHOD_NAME" value="registrationForBusinessAccountPrivateCompanyTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusinessAccountPrivateCompanyRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_Automation_Task" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BusinessAccountPrivateCompanyRegistrationTest" />
-      <option name="METHOD_NAME" value="registrationForBusinessAccountPrivateCompanyTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -101,10 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BusinessAccountPartnershipRegistrationTest" />
         <item itemvalue="TestNG.BusinessAccountPublicRegistrationTest" />
+        <item itemvalue="TestNG.BusinessAccountPartnershipRegistrationTest.registrationForBusinessAccountPrivateCompanyTest" />
         <item itemvalue="TestNG.BusinessAccountPublicRegistrationTest.registrationForBusinessAccountPrivateCompanyTest" />
         <item itemvalue="TestNG.BusinessAccountPrivateCompanyRegistrationTest" />
-        <item itemvalue="TestNG.BusinessAccountPrivateCompanyRegistrationTest.registrationForBusinessAccountPrivateCompanyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729946815946</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test 2">
+      <option name="closed" value="true" />
+      <created>1729948285956</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729948285956</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,7 +201,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test 1 passed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 1 passed" />
+    <MESSAGE value="Test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

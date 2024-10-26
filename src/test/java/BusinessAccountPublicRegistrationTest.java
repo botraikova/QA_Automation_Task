@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
     public class BusinessAccountPublicRegistrationTest extends TestAndDriverSetup {
 
         @Test
-        public void registrationForBusinessAccountPrivateCompanyTest(){
+        public void registrationForBusinessAccountPublicCompanyTest(){
 
             RegisterPage registerPage = new RegisterPage(webDriver);
 
