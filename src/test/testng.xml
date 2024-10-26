@@ -6,6 +6,7 @@
             <class name="BusinessAccountPartnershipRegistrationTest"></class>
             <class name="BusinessAccountPublicRegistrationTest"></class>
             <class name="BusinessAccountTrustRegistrationTest"></class>
+            <class name="PersonalAccountIndividualRegistrationTest"></class>
         </classes>
     </test>
 </suite>

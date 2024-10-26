@@ -61,7 +61,7 @@ public class RegisterPage {
     }
 
     public void clickPersonalAccount() {
-        WebElement personalAccountButton = wait.until(ExpectedConditions.elementToBeClickable(webDriver.findElement(By.id("register_type_of_account_business"))));
+        WebElement personalAccountButton = wait.until(ExpectedConditions.elementToBeClickable(webDriver.findElement(By.id("register_type_of_account_personal_form_input"))));
         personalAccountButton.click();
     }
 
