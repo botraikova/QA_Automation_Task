@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37206e59-1f69-48d2-af3f-baf4717cb331" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObject/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountPartnershipRegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountPrivateCompanyRegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountPublicRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BusinessAccountTrustRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EducationPrivateCompanyRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EducationPublicCompanyRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PersonalAccountIndividualRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PersonalAccountSoleTraderRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestAndDriverSetup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nweGYrse9386VM12lwvtXPLJME" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.BusinessAccountPrivateCompanyRegistration.executor": "Run",
+    "TestNG.BusinessAccountPrivateCompanyRegistration.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
+    "TestNG.BusinessAccountPrivateCompanyRegistrationTest.executor": "Run",
+    "TestNG.BusinessAccountPrivateCompanyRegistrationTest.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/QA_Automation_Task/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.BusinessAccountPrivateCompanyRegistrationTest">
+    <configuration name="BusinessAccountPrivateCompanyRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Automation_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusinessAccountPrivateCompanyRegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusinessAccountPrivateCompanyRegistrationTest.registrationForBusinessAccountPrivateCompanyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Automation_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusinessAccountPrivateCompanyRegistrationTest" />
+      <option name="METHOD_NAME" value="registrationForBusinessAccountPrivateCompanyTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BusinessAccountPrivateCompanyRegistrationTest" />
+        <item itemvalue="TestNG.BusinessAccountPrivateCompanyRegistrationTest.registrationForBusinessAccountPrivateCompanyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37206e59-1f69-48d2-af3f-baf4717cb331" name="Changes" comment="" />
+      <created>1729888475662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729888475662</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/BusinessAccountPrivateCompanyRegistrationTest.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
