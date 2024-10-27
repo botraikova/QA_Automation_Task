@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="37206e59-1f69-48d2-af3f-baf4717cb331" name="Changes" comment="Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PageObject/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageObject/RegisterPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestAndDriverSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestAndDriverSetup.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,35 +34,46 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.BusinessAccountPartnershipRegistrationTest.executor": "Run",
-    "TestNG.BusinessAccountPartnershipRegistrationTest.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
-    "TestNG.BusinessAccountPrivateCompanyRegistration.executor": "Run",
-    "TestNG.BusinessAccountPrivateCompanyRegistration.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
-    "TestNG.BusinessAccountPrivateCompanyRegistrationTest.executor": "Run",
-    "TestNG.BusinessAccountPrivateCompanyRegistrationTest.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
-    "TestNG.BusinessAccountPublicRegistrationTest.executor": "Run",
-    "TestNG.BusinessAccountPublicRegistrationTest.registrationForBusinessAccountPrivateCompanyTest.executor": "Run",
-    "TestNG.BusinessAccountTrustRegistrationTest.executor": "Run",
-    "TestNG.EducationPrivateCompanyRegistrationTest.executor": "Run",
-    "TestNG.EducationPublicCompanyRegistrationTest.executor": "Run",
-    "TestNG.EducationPublicCompanyRegistrationTest.registrationForEducationPublicCompany.executor": "Run",
-    "TestNG.PersonalAccountIndividualRegistrationTest.executor": "Run",
-    "TestNG.PersonalAccountIndividualRegistrationTest.registrationForPersonalAccountIndividualTest.executor": "Run",
-    "TestNG.PersonalAccountSoleTraderRegistrationTest.executor": "Run",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/QA_Automation_Task/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.BusinessAccountPartnershipRegistrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BusinessAccountPartnershipRegistrationTest.registrationForBusinessAccountPrivateCompanyTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BusinessAccountPrivateCompanyRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BusinessAccountPrivateCompanyRegistration.registrationForBusinessAccountPrivateCompanyTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BusinessAccountPrivateCompanyRegistrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BusinessAccountPrivateCompanyRegistrationTest.registrationForBusinessAccountPrivateCompanyTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BusinessAccountPublicRegistrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BusinessAccountPublicRegistrationTest.registrationForBusinessAccountPrivateCompanyTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.BusinessAccountTrustRegistrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EducationPrivateCompanyRegistrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EducationPublicCompanyRegistrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.EducationPublicCompanyRegistrationTest.registrationForEducationPublicCompany.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PersonalAccountIndividualRegistrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PersonalAccountIndividualRegistrationTest.registrationForPersonalAccountIndividualTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PersonalAccountSoleTraderRegistrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/QA_Automation_Task/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="TestNG.EducationPublicCompanyRegistrationTest.registrationForEducationPublicCompany">
+}</component>
+  <component name="RunManager" selected="TestNG.BusinessAccountPartnershipRegistrationTest">
+    <configuration name="BusinessAccountPartnershipRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QA_Automation_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusinessAccountPartnershipRegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EducationPrivateCompanyRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_Automation_Task" />
       <option name="PACKAGE_NAME" value="" />
@@ -97,18 +108,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonalAccountIndividualRegistrationTest.registrationForPersonalAccountIndividualTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="QA_Automation_Task" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PersonalAccountIndividualRegistrationTest" />
-      <option name="METHOD_NAME" value="registrationForPersonalAccountIndividualTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PersonalAccountSoleTraderRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="QA_Automation_Task" />
       <option name="PACKAGE_NAME" value="" />
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BusinessAccountPartnershipRegistrationTest" />
         <item itemvalue="TestNG.EducationPublicCompanyRegistrationTest.registrationForEducationPublicCompany" />
         <item itemvalue="TestNG.EducationPublicCompanyRegistrationTest" />
         <item itemvalue="TestNG.EducationPrivateCompanyRegistrationTest" />
         <item itemvalue="TestNG.PersonalAccountSoleTraderRegistrationTest" />
-        <item itemvalue="TestNG.PersonalAccountIndividualRegistrationTest.registrationForPersonalAccountIndividualTest" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729955425755</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Test">
+      <option name="closed" value="true" />
+      <created>1729956112580</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729956112580</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

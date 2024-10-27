@@ -51,7 +51,7 @@ public class RegisterPage {
     }
 
     public void clickPartnershipForBusiness() {
-        WebElement partnershipForBusinessButton = wait.until(ExpectedConditions.elementToBeClickable(webDriver.findElement(By.id("register_business_account_type_partnership"))));
+        WebElement partnershipForBusinessButton = wait.until(ExpectedConditions.elementToBeClickable(webDriver.findElement(By.id("register_business_account_type_partnership_input_cell"))));
         partnershipForBusinessButton.click();
     }
 
@@ -120,7 +120,6 @@ public class RegisterPage {
 
     public void typeLastName() {
         String lastName = generateRandomName(10, 15);
-        //String lastName = generateRandomFirstName(10,15); moje li da se izpylni s metoda za generate name? ili tr da razbivam na first i last
         WebDriverWait wait = new WebDriverWait(this.webDriver, Duration.ofSeconds(15));
         WebElement lastNameField = wait.until(ExpectedConditions.visibilityOf(webDriver.findElement(By.id("last_name"))));
         lastNameField.sendKeys(lastName);
@@ -200,6 +199,7 @@ public class RegisterPage {
     }
 
     private double evaluateMathExpression(String problem) {
+
         return 0;
     }
 
